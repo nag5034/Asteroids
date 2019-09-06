@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/Klingon.png</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/font.spritefont</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/spaceshipTexture.png</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/bullet.png</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/Asteroid1.png</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/Asteroid2.png</File>
+    <File>C:/Users/nicol/Desktop/Sample/Asteroids/SpaceShipProject/SpaceShipProject/Content/asteroid3.png</File>
+  </SourceFiles>
+</SourceFileCollection>

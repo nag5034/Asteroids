@@ -1,0 +1,120 @@
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\spaceshipTexture.xnb
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.exe
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.pdb
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.exe
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.pdb
+D:\Visual Studio\Projects\202\In Progress\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Klingon.xnb
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.exe
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.pdb
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Klingon.xnb
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\spaceshipTexture.xnb
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.exe
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.pdb
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Profiles\nag5034\Downloads\SpaceShipProject\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Asteroid1.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Asteroid2.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\asteroid3.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\font.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Klingon.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\spaceshipTexture.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.exe
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.pdb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.exe
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.pdb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\Visual Studio\Projects\202\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Asteroid1.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Asteroid2.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\asteroid3.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\Klingon.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\Content\spaceshipTexture.xnb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.exe
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SpaceShipProject.pdb
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.csproj.CopyComplete
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.exe
+C:\Users\nicol\Desktop\Sample\Asteroids\SpaceShipProject\SpaceShipProject\obj\x86\Debug\SpaceShipProject.pdb

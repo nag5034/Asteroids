@@ -1,0 +1,30 @@
+Nicole Griffin 
+Interactive Media Development Section 1
+
+Title:
+Asteroids
+
+Description:
+Make a simple playable asteroids game. 
+
+Functionality:
+The user uses the arrow keys to move, space to fire one bullet 
+per press, and shift to fire lazers at the asteroids as a power
+up incase one is about to hit you but be careful and only use it
+sparingly because it decrements your score! The score is based on
+how often you use the power up, and the amount of asteroids destroyed. 
+
+Issues:
+1. If you shoot the bullets very quickly in succesion it sometimes breaks the game.
+2. I can not get the lives to decrement properly. 
+
+
+Notes: 
+My Above and beyonds were the laser power up feature and when you destroy all the asteroids it displays "You Won!".  
+
+Asset Credits: 
+https://www.nasa.gov/sites/default/files/thumbnails/image/edu_asteroid_large.jpg
+http://orion.pta.edu.pl/files/zdjecia/wiadomosci/asteroid5.jpg
+http://spacetech.dundee.ac.uk/imagegallery/main.php?g2_view=core.DownloadItem&g2_itemId=42&g2_serialNumber=2
+http://www.pngmart.com/files/3/Fireball-PNG-Photos.png
+http://3.bp.blogspot.com/-MQE-zK1mVSE/UdSVGV3GP3I/AAAAAAAAAvA/8seWoCqWIx8/s512/spacestation.png
